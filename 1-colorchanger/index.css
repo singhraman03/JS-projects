@@ -1,0 +1,57 @@
+body, html{
+  height: 100%;
+  margin: 0;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+.color{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.button{
+  display: inline-block;
+  height: 100px;
+  width: 50px;
+  margin: 0 10px;
+
+
+
+}
+
+
+#Orange{
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+  border: 2px solid black;
+}
+
+#Blue{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(27, 48, 233);
+  border: 2px solid black;
+}
+
+#Red{
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border: 2px solid black;
+}
+
+#Grey{
+  height: 100px;
+  width: 100px;
+  background-color: grey;
+  border: 2px solid black;
+
+}
